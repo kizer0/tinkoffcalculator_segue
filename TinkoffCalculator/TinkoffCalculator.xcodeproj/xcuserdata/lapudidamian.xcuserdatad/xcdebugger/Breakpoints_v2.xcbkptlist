@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B314F8E-18A6-42DD-B1CA-9BF771701EA3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54ED361D-B483-4660-A29E-C48ECD27BBE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinkoffCalculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F76EFB9-524E-42D6-AF5B-E1EDFCDCE3C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinkoffCalculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5F76EFB9-524E-42D6-AF5B-E1EDFCDCE3C4 - 477aa5a3b7d1d1f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.label.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapudidamian/Documents/GitHub/tinkoffcalculator_segue/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5F76EFB9-524E-42D6-AF5B-E1EDFCDCE3C4 - c0d1142d8ac82dc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.label.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapudidamian/Documents/GitHub/tinkoffcalculator_segue/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5F76EFB9-524E-42D6-AF5B-E1EDFCDCE3C4 - 5f7f06b1165ba6f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapudidamian/Documents/GitHub/tinkoffcalculator_segue/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5F76EFB9-524E-42D6-AF5B-E1EDFCDCE3C4 - 6fea99048da7da7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapudidamian/Documents/GitHub/tinkoffcalculator_segue/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5F76EFB9-524E-42D6-AF5B-E1EDFCDCE3C4 - 2e0c404f2a760690"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TinkoffCalculator.ViewController"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapudidamian/Documents/GitHub/tinkoffcalculator_segue/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "5F76EFB9-524E-42D6-AF5B-E1EDFCDCE3C4 - 98047cce2e3dc5a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TinkoffCalculator.ViewController&gt;"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapudidamian/Documents/GitHub/tinkoffcalculator_segue/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
